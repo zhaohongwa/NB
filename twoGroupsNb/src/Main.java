@@ -1,6 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
+        zhu();
         System.out.println("Hello World!");
     }
 
@@ -8,7 +9,7 @@ public class Main {
         System.out.println("hhh");
     }
 
-    private void test2(){
-        System.out.println("xxx");
+    private void zhu(){
+        System.out.println("朱征南是🐖🐖🐖🐖🐖🐖🐖🐖");
     }
 }
