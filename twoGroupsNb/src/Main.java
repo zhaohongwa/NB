@@ -12,7 +12,10 @@ public class Main {
         System.out.println("xxx");
     }
 
+
     public void test4(String[] args) {
         System.out.println("XXXOOO");
     }
+
+
 }
