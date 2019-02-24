@@ -12,4 +12,8 @@ public class Main {
     private void test2() {
         System.out.println("🐖震南是🐖🐖🐖🐖🐖🐖🐖🐖");
     }
+
+    public void test4(String[] args) {
+        System.out.println("XXXOOO");
+    }
 }
