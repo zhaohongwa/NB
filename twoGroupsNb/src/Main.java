@@ -16,5 +16,9 @@ public class Main {
         System.out.println("测试");
     }
 
+    public void test6(String[] args) {
+        System.out.println("456");
+    }
+
 
 }
